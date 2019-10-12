@@ -2,3 +2,4 @@
 *.pyc
 env
 *-final.py
+SQLAlchemy-1.3.10*
